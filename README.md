@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Jongho Lee.  - 🌱 I’m currently learning ...
+### Hi there 👋 My name is Jongho Lee.
+- 🌱 I’m currently learning ...
 - JAVA, JavaScript, React, Spring, node.js, HTML, CSS..[![wakatime](https://wakatime.com/badge/user/fab11908-f2ab-4476-8057-2f6505465ffb.svg)](https://wakatime.com/@fab11908-f2ab-4476-8057-2f6505465ffb) ![Jongho Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFrank9&show_icons=true&theme=dark)
 
 
