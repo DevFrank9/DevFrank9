@@ -1,5 +1,5 @@
 ### Hi there 👋
-![DevFrank9's GitHub stats](https://github-readme-stats.vercel.app/api?DevFrank9=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![DevFrank9's GitHub stats](https://github-readme-stats.vercel.app/api?DevFrank9=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DevFrank9/DevFrank9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
