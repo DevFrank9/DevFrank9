@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Jongho Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFrank9&show_icons=true&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevFrank9&repo=github-readme-stats)](https://github.com/DevFrank9/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevFrank9&repo=github-readme-stats)](https://github.com/DevFrank9)
 
 <!--
 **DevFrank9/DevFrank9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
