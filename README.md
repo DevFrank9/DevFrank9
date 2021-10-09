@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Github Stats](https://github-readme-stats.vercel.app/api?Jongho Lee=biud436&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?DevFrank9=biud436&show_icons=true)
 <!--
 **DevFrank9/DevFrank9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
