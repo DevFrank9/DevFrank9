@@ -1,9 +1,12 @@
 ### Hi there 👋 My name is Jongho Lee.
 - 😄 My Goal...
 - every day commit & fill my commit progress
+
 - 🌱 I’m currently learning ...
 - JAVA, JavaScript, React, Spring,node.js, HTML..
-- [![wakatime](https://wakatime.com/badge/user/fab11908-f2ab-4476-8057-2f6505465ffb.svg)](https://wakatime.com/@fab11908-f2ab-4476-8057-2f6505465ffb) 
+
+- ⏰ My study time is..
+[![wakatime](https://wakatime.com/badge/user/fab11908-f2ab-4476-8057-2f6505465ffb.svg)](https://wakatime.com/@fab11908-f2ab-4476-8057-2f6505465ffb) 
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devfrank)](https://solved.ac/devfrank/)
