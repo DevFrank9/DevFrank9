@@ -1,9 +1,9 @@
 ### Hi there 👋 My name is Jongho Lee.
 - 😄 My Goal...   every day commit & fill my commit progress
 
-- 🌱 I’m currently learning ...   HTML, JavaScript, React, node.js, graph QL, Type Script, MongoDB..
+- 🌱 I’m learning ...   HTML, JavaScript, React, node.js, graph QL, Type Script, MongoDB..
 
-- ⏰ My study time is..
+- ⏰ My study time is...
 [![wakatime](https://wakatime.com/badge/user/fab11908-f2ab-4476-8057-2f6505465ffb.svg)](https://wakatime.com/@fab11908-f2ab-4476-8057-2f6505465ffb) 
 
 
