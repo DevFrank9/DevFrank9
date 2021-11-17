@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&text=DevFrank9)
-<div align="center">
 # 💻 TECH 💻
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 # 🚀 TODAY 🚀
@@ -11,7 +10,6 @@ every day commit & fill my commit progress
 # Github Status
 ![Jongho Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFrank9&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devfrank9&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <!--
 **DevFrank9/DevFrank9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
