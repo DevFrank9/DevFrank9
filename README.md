@@ -27,7 +27,7 @@
 </a>
 
 <h1 align="center">MY GOAL 🎯</h1>
-<p align="center">every day commit & fill my commit progress</p>
+<p align="center">every day commit & fill my commit progress.</p>
 
 <h1 align="center">Github Status</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFrank9&layout=compact&theme=dark"></img>
