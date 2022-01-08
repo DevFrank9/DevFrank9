@@ -27,7 +27,7 @@
 </a>
 
 <h1 align="center">MY GOAL 🎯</h1>
-<p align="center">every day commit & fill my commit progress</p>
+<p align="center">every day commit & fill my commit progress.</p>
 
 <!--
 **DevFrank9/DevFrank9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
