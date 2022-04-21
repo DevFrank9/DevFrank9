@@ -24,10 +24,6 @@
 <a href="https://wakatime.com/@fab11908-f2ab-4476-8057-2f6505465ffb">
 <img src="https://wakatime.com/badge/user/fab11908-f2ab-4476-8057-2f6505465ffb.svg" alt="Total time coded since Oct 5 2021" />
 </a>
-
-<h1 align="center">MY GOAL 🎯</h1>
-<p align="center">every day commit & fill my commit progress</p>
-
 <!--
 **DevFrank9/DevFrank9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
