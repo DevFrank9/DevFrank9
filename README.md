@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&text=Introduce"></h1>
 <br>
-<img width="850" alt="image" src="https://user-images.githubusercontent.com/90244663/173200790-c1f263b3-e485-4fb4-93e1-b53a4468bfce.png">
+<img width="850" alt="image" src="https://user-images.githubusercontent.com/90244663/173200880-68eb8714-a47a-4125-bf5f-931da361b050.png">
 ## 💻TECH
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=for-the-badge&logo=Apollo GraphQL&logoColor=white">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 
-## ⏰STUDY TIME
+## ⏰CodingTime & Visitor
 <a href="https://wakatime.com/@fab11908-f2ab-4476-8057-2f6505465ffb">
 <img src="https://wakatime.com/badge/user/fab11908-f2ab-4476-8057-2f6505465ffb.svg" alt="Total time coded since Oct 5 2021" />
 </a>
