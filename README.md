@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&text=Introduce"></h1>
-<br>
 <img width="850" alt="image" src="https://user-images.githubusercontent.com/90244663/173200880-68eb8714-a47a-4125-bf5f-931da361b050.png">
 ## 💻TECH
 <p>
