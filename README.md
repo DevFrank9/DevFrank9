@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&text=Introduce">
-
 ## 💁‍♂️Profile
 > 목수는 톱, 작가는 펜, 개발자는 컴퓨터.  
 > 사람들에게 생활의 편리함을 주고 가치를 생산하는 개발자가 되고싶습니다.
@@ -44,3 +42,7 @@
 </a>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=devfrank9&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&text=Introduce">
+-->
