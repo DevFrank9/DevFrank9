@@ -4,7 +4,7 @@
 > 사람들에게 생활의 편리함을 주고 가치를 생산하는 개발자가 되고싶습니다.
 
 ### 📬Contact
-[![Gmail](http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&link=devfrank9@gmail.com&logoColor=white)](<devfrank9@gmail.com>)
+[![Gmail](http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](devfrank9@gmail.com)
 [![Velog](http://img.shields.io/badge/-Velog-20C997?style=flat&logo=Velog&link=https://velog.io/@devfrank9&logoColor=white)](https://velog.io/@devfrank9)
 [![Github](http://img.shields.io/badge/-Github-181717?style=flat&logo=Github&link=https://github.com/DevFrank9&logoColor=white)](https://github.com/DevFrank9)
 
