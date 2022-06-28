@@ -1,6 +1,27 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&text=Introduce"></h1>
-<img width="850" alt="image" src="https://user-images.githubusercontent.com/90244663/173200880-68eb8714-a47a-4125-bf5f-931da361b050.png">
+## 💁‍♂️Profile
+> 목수는 톱, 작가는 펜, 개발자는 컴퓨터.  
+> 사람들에게 생활의 편리함을 주고 가치를 생산하는 개발자가 되고싶습니다.
 
+### 📬Contact
+[![Gmail](http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&link=devfrank9@gmail.com&logoColor=white)]("devfrank9@gmail.com")
+[![Velog](http://img.shields.io/badge/-Velog-20C997?style=flat&logo=Velog&link=https://velog.io/@devfrank9&logoColor=white)]("https://velog.io/@devfrank9")
+
+🏬 경력
+- 아이오젠
+  - 2022.02 ~ 2022.03
+  - 두잇두잇 개발
+- 홍인테크
+  - 2018.12 ~ 2021.05
+  - 3D 배관 설계 (C# 매크로 프로그램)
+
+🏫 교육
+  - 한국소프트웨어인재개발원
+    - 2021.08 ~ 2022.02
+    - JAVA웹/앱 풀스택 과정
+  - 코드스테이츠
+    - 2022.04 ~ 2022.10
+    - 프론트엔드 과정 39기
 
 ## 💻TECH
 
