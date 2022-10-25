@@ -17,6 +17,7 @@
 
 ## ⏰Activity
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@DevFrank9/64fb2e87-2112-45b9-9aa2-fa10e3fefb2c.png" /></a>  
 <a href="https://wakatime.com/@fab11908-f2ab-4476-8057-2f6505465ffb">
 <img src="https://wakatime.com/badge/user/fab11908-f2ab-4476-8057-2f6505465ffb.svg" alt="Total time coded since Oct 5 2021" />
 </a>
