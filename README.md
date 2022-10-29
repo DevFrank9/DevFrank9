@@ -1,4 +1,4 @@
-## 💁‍♂️Profile.
+## 💁‍♂️Profile
 
 ### 📬Contact
 [![Gmail](http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=devfrank9@gmail.com)](mailto:devfrank9@gmail.com)
