@@ -1,19 +1,15 @@
-## 💁‍♂️Profile
-
-### 📬Contact
+## 📬Contact
 [![Gmail](http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=devfrank9@gmail.com)](mailto:devfrank9@gmail.com)
 [![Velog](http://img.shields.io/badge/-Velog-20C997?style=flat&logo=Velog&link=https://velog.io/@devfrank9&logoColor=white)](https://velog.io/@devfrank9)
-[![Github](http://img.shields.io/badge/-Github-181717?style=flat&logo=Github&link=https://github.com/DevFrank9&logoColor=white)](https://github.com/DevFrank9)
 
 ## 💻TECH
 
 |항목|스택|
 |:--|:--|
-|Language|<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+|Language|<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 |Library|<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">|
-|FrameWork| <img src="https://img.shields.io/badge/express-339933?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">|
+|FrameWork|<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">|
 |ApiDesign|<img src="https://img.shields.io/badge/GraphQL-311C87?style=for-the-badge&logo=Apollo GraphQL&logoColor=white"> <img src="https://img.shields.io/badge/RestAPI-9cf?style=for-the-badge">|
-|DB|<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">|
 
 ## ⏰Activity
 
@@ -26,4 +22,6 @@
 
 <!-- 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&text=Introduce">
+|DB|<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">|
+[![Github](http://img.shields.io/badge/-Github-181717?style=flat&logo=Github&link=https://github.com/DevFrank9&logoColor=white)](https://github.com/DevFrank9)
 -->
